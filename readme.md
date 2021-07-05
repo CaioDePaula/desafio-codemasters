@@ -55,5 +55,5 @@ biggestExchange(72) # 72 greater than 27 return "true"
   
 ## Authors
 
-- [@codemasters](codemasters.br)
-- [@CaioDePaula](codemasters.br)
+- [@codemasters](https://www.instagram.com/codemasters.br/)
+- [@CaioDePaula](https://github.com/CaioDePaula)
